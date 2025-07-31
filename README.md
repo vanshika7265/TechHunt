@@ -1,6 +1,6 @@
-# 🔗 HireSphere
+# 🔗 TechHunt
 
-**HireSphere** is a full-stack Job Portal built using the **MERN (MongoDB, Express, React, Node.js)** stack. This platform enables **recruiters** to post jobs and **candidates** to search and apply for jobs easily. It features role-based authentication, job filtering, and application tracking with a clean, responsive UI.
+**TechHunt** is a full-stack Job Portal built using the **MERN (MongoDB, Express, React, Node.js)** stack. This platform enables **recruiters** to post jobs and **candidates** to search and apply for jobs easily. It features role-based authentication, job filtering, and application tracking with a clean, responsive UI.
 
 ---
 
